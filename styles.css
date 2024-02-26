@@ -119,3 +119,29 @@ button {
     flex-basis: 100px;
     color: rgb(107, 107, 107);
 }
+
+.section3 {
+    height: 400px;
+    background-color: #E5E7EB;
+    font-size: 26px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #1F2937;
+    align-items: center;
+    justify-content: center;
+    line-height: 35px;
+}
+
+.author {
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.quote {
+    text-align: center;
+    width: 600px;
+    font-style: italic;
+}
